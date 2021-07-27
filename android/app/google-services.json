@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440627815871",
+    "project_id": "newerayasa7be",
+    "storage_bucket": "newerayasa7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440627815871:android:8b1235adf66ad7ffb12d0a",
+        "android_client_info": {
+          "package_name": "com.example.newera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440627815871-0rckmli00tui0opaet397sj7ff9d89nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newera",
+            "certificate_hash": "f4dbcfeb3ba598d97265439320b65557bdd8975b"
+          }
+        },
+        {
+          "client_id": "440627815871-61givrm57tt954ugoh8tc3rf4b6ijug2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VC-0KOSVF9FcRUlIWf_qdAPmhP2CfGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440627815871-61givrm57tt954ugoh8tc3rf4b6ijug2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
